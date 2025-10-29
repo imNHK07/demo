@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-=======
+
 hotfix-1
 hotfix-2
 hotfix-3
->>>>>>> f9ccd2b (hotfix-3)
+
